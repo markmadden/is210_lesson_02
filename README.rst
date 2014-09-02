@@ -8,7 +8,7 @@ Homework #2
 :College: CUNY School of Professional Studies
 :Course-Name: Software Application Programming I
 :Course-Code: IS 210
-:Available: 2014-09-04T09:00:00-0400
+:Available: 2014-09-02T09:00:00-0400
 :Due-Date: 2014-09-08T09:00:00-0400
 
 Overview
