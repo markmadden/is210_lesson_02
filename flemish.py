@@ -4,8 +4,6 @@
 
 import inquisition
 
-from inquisition import SPANISH
-
 FISHY = inquisition.SPANISH.replace('surprise', 'haddock')
 
 S = 'Spanish'
