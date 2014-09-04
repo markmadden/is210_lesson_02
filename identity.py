@@ -4,8 +4,6 @@
 
 
 def get_member_count(my_sequence):
-
-    
     """Returns the number of members of a list object.
 
     Args:
@@ -32,9 +30,8 @@ def get_member_count(my_sequence):
 
     return length
 
-def is_empty(my_sequence):
 
-    
+def is_empty(my_sequence):
     """Tests whether or not the passed sequence is empty.
 
     Args:
