@@ -10,4 +10,3 @@ FISHY = inquisition.SPANISH.replace('surprise', 'haddock')
 S = 'Spanish'
 
 FLEMISH = FISHY[: FISHY.index(S)] + 'Flemish' + FISHY[FISHY.index(S) + len(S):]
-

@@ -6,4 +6,4 @@ NEWS = 'Hi {friend}! I have {0} news! I won the raffle with number {1:.4f}!'
 FNAME = 'Pat'
 NTYPE = '*amazing*'
 RNUM = 42
-EMAIL = NEWS.format('*amazing*',42, friend= 'Pat')
+EMAIL = NEWS.format('*amazing*', 42, friend='Pat')
