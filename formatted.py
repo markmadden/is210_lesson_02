@@ -6,3 +6,5 @@ NEWS = 'Hi {friend}! I have {0} news! I won the raffle with number {1}!'
 FNAME = 'Pat'
 NTYPE = '*amazing*'
 RNUM = 42
+
+NEWS = NEWS.format(a,b,%06d)
