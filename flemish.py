@@ -5,3 +5,5 @@
 
 import inquisition
 FISHY = inquisition.SPANISH.replace('surprise', 'haddock')
+VAR1 = "Spanish"
+VAR1L = len(VAR1)
