@@ -4,4 +4,4 @@
 
 
 WILL_ROBINSON = 'Danger Will Robinson!'
-KLAXON = WILL_ROBINSON [:7] * 5
+KLAXON = WILL_ROBINSON[:7] * 5
