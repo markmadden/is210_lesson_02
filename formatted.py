@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 """Provides variables for formatting."""
 
-FNAME = 'Chad'
-NTYPE = 'great'
-RNUM = 210
+FNAME = 'Pat'
+NTYPE = '*amazing*'
+RNUM = 42
 NEWS = 'Hi {friend}! I have {0} news! I won the raffle with number {1:0>6d}!'
 
 EMAIL = NEWS.format(NTYPE, RNUM, friend=FNAME)
